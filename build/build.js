@@ -13,7 +13,7 @@ const header = `// ==UserScript==
 // @description  Extension qui ajoute des fonctionnalités (timer, pilote automatique et plan dynamique) dans le jeu PMD.
 // @author       PieroLB
 // @match        https://pmdapp.fr/*
-// @match        https://alpha.pmdapp.fr/*
+// @match        https://www.pmdapp.fr/*
 // @icon         https://lh3.googleusercontent.com/dJpt27Lfg0upeK1rRqPk8W5pMv5JAdOVeCIlM28XQ3o_SL-pCIPH51dnZzPY7lcCNf_tWSOkC-4lzTCToIPGDI3vizk=s60
 // @license      MIT
 // @grant        none
