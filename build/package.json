@@ -1,0 +1,11 @@
+{
+  "name": "pmd-plus-build",
+  "version": "0.4.6",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "release:patch": "npm version patch && git push --follow-tags",
+    "release:minor": "npm version minor && git push --follow-tags",
+    "release:major": "npm version major && git push --follow-tags"
+  }
+}
