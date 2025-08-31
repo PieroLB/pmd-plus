@@ -1032,7 +1032,7 @@ const settings = () => {
         ];
       let paramPMDTools = document.createElement("div");
       paramPMDTools.className = "menubtn parambtn";
-      paramPMDTools.textContent = "Paramètres PMD Tools";
+      paramPMDTools.textContent = "Paramètres PMD+";
       lastParam.after(paramPMDTools);
       paramPMDTools.addEventListener("click", () => {
         let extra = document.createElement("div");
